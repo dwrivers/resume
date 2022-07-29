@@ -1,9 +1,19 @@
-```
-<h5 align=center>PROFILE HIGHLIGHTS</h5>
-```
+> <h5 align=center>PROFILE HIGHLIGHTS</h5>
 
-#### MAIN README
+<p align=center>Implemented image processing algorithms in MATLAB, Python and C++; performed product demonstrations to 200+ people; developed proprietary product features for Roche with scalable and extensible code; led multiple teams of 4+ people for prototypes and startup projects; trained/mentored students during programming courses; and enhanced/supported GUI/frontend.</p>
 
+> <h5 align=center>CORE COMPETENCIES</h5>
+
+| Software | Hardware | Misc |
+| -------- | -------- | ---- |
+| Computer Vision, Algorithm Design and Optimization | PCB Design: EAGLE, PSPICE and OrCAD | PM Methodologies: Agile and Waterfall |
+| 1   | 2        | 3 |
+
+> <h5 align=center>EDUCATION</h5>
+
+    M.S., Electrical Engineering, CalPoly SLO, CA – 2022 – Dean’s List / Award of Honor
+        Thesis: Investigation of Green Strawberry Detection Using R-CNN with Various Architectures
+    B.S., Computer Engineering, CalPoly SLO, CA - 2020
 
 You can use the [editor on GitHub](https://github.com/dwrivers/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
