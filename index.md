@@ -1,4 +1,6 @@
-
+```
+<h5 align=center>PROFILE HIGHLIGHTS</h5>
+```
 
 #### MAIN README
 
