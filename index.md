@@ -1,3 +1,5 @@
+<embed src="/DannyRiversResume040722.pdf" width="100%" height="100%" />
+
 > <h5 align=center>PROFILE HIGHLIGHTS</h5>
 
 <p align=center>Implemented image processing algorithms in MATLAB, Python and C++; performed product demonstrations to 200+ people; developed proprietary product features for Roche with scalable and extensible code; led multiple teams of 4+ people for prototypes and startup projects; trained/mentored students during programming courses; and enhanced/supported GUI/frontend.</p>
