@@ -1,4 +1,4 @@
-<embed src="/DannyRiversResume040722.pdf" width="100%" height="100%" />
+<embed src="https://dwrivers.github.io/resume/DannyRiversResume040722.pdf" width="100%" height="100%" />
 
 > <h5 align=center>PROFILE HIGHLIGHTS</h5>
 
